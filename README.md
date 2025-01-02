@@ -7,6 +7,8 @@ You will need node.js for this to run, install node.js [here](https://nodejs.org
 Download the source code by clicking the download ZIP button
 ![image](https://github.com/user-attachments/assets/e9cc6acf-6c95-461f-bc91-1f5e94d37648)
 
+Install the following by typing 'npm i canvas gm image-downloader prompt-sync wallpaper'
+
 Run the program on command prompt by copying the directory and then typing node.js into the console.
 
 # Ouputs
