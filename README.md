@@ -14,6 +14,6 @@ changes your wallpaper to a random positive quote :)
 
 - Run the program on command prompt by typing node.js into the console.
 
-# Ouputs
+# Outputs
 ![IampowerfulOrange](https://github.com/user-attachments/assets/4584c06c-d408-4a05-985b-d307c411d1a2)
 ![IampowerfulPurple](https://github.com/user-attachments/assets/29481474-bec0-4ce2-ac09-15be6015a73c)
