@@ -1,0 +1,28 @@
+{
+  "name": "positive-wallpaper-quotes",
+  "version": "1.0.0",
+  "description": "Changes your wallpaper to a random positive quote!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "positive",
+    "wallpaper"
+  ],
+  "author": "Avril Piera",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "gm": "^1.25.0",
+    "image-downloader": "^4.3.0",
+    "prompt-sync": "^4.2.0",
+    "wallpaper": "^7.2.1"
+  },
+  "overrides": {
+    "gm": {
+      "cross-spawn": "7.0.6"
+    }
+  }
+}
