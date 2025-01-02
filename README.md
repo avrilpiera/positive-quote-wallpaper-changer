@@ -6,9 +6,12 @@ changes your wallpaper to a random positive quote :)
 - Download the source code by clicking the download ZIP button
 <br>
 ![image](https://github.com/user-attachments/assets/e9cc6acf-6c95-461f-bc91-1f5e94d37648)
+
 <br>
 - Change the directory, then install the following by typing 'npm i canvas gm image-downloader prompt-sync wallpaper'
+
 ![image](https://github.com/user-attachments/assets/d4d0f169-0503-41ee-a79d-110a990572c7)
+
 - Run the program on command prompt by typing node.js into the console.
 
 # Ouputs
